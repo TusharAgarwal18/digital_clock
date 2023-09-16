@@ -1,2 +1,2 @@
 # digital_clock
-This is a Digital Clock Project build using HTML &amp; CSS.
+This is a Digital Clock Project built using HTML, CSS & JavaScript.
